@@ -1,6 +1,8 @@
-第一步下载：patch-edid.rb
+Macbook外接显示器开启1080 hidpi方法
+原贴地址：https://bbs.feng.com/forum.php?mod=viewthread&tid=7742433
 
-链接:https://pan.baidu.com/s/1ZbCkZNmc0mAr8T3EBVjecg  密码:1x91
+第一步:下载patch-edid.rb
+链接:https://pan.baidu.com/s/1nkj2dooZHg5eHRB7kRCz6g  密码:johi
 git中已经有些文件
 第二步：运行行 patch-edid.rb
 
