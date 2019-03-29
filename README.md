@@ -1,9 +1,10 @@
 Macbook外接显示器开启1080 hidpi方法
-原贴地址：https://bbs.feng.com/forum.php?mod=viewthread&tid=7742433
 
 第一步:下载patch-edid.rb
 链接:https://pan.baidu.com/s/1nkj2dooZHg5eHRB7kRCz6g  密码:johi
-git中已经有些文件
+
+git中已经有这个文件
+
 第二步：运行行 patch-edid.rb
 
 #cd Downloads
@@ -16,3 +17,6 @@ sudo cp DisplayVendorID-4c2d   /System/Library/Displays/Contents/Resources/Overr
 第四步：重新连接显示器查看效果
 
 第五步：可安装RDM管理显示器分辨率
+
+
+原贴地址：https://bbs.feng.com/forum.php?mod=viewthread&tid=7742433
